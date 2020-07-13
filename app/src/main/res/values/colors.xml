@@ -7,4 +7,6 @@
     <color name="colorYellow">#ffff00</color>
     <color name="colorDarkBlue">#FF00BCD4</color>
     <color name="colorGray">#777777</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#FFFFFF</color>
 </resources>
